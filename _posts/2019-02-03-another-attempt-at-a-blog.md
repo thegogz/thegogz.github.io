@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Welcome to my blog"
+tags: [sfdx, bash, shell, git-bash]
 ---
-
-# Welcome
 
 Ok so I've said before I'd do a blog and I never really get around to it. So here we go with another attempt at it.
 
-This started last night when I was researching some interesting things to do with Salesforce DX.
+This started last night when I was researching some interesting things to do with Salesforce DX and more specifically my bash shell.
 
 I came accros [this](http://www.wadewegner.com/2017/04/show-the-salesforce-dx-org-config-in-your-bash-profile/) which with a bit of playing around I was able to get working.
 

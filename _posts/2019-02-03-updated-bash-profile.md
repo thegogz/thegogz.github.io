@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Updated Bash Profile"
+title:  "Updated SFDX Aware Bash Profile"
+tags: [sfdx, bash, shell, git-bash, salesforce, git]
 ---
 
 I knew there was something missing from the last version. So here's the latest
