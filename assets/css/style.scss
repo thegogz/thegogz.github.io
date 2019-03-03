@@ -4,6 +4,9 @@
 @import "{{ site.theme }}";
 
 a.bloglist {
-    text-decoration: none;
     color: $body-foreground;
+}
+
+a.nodecor {
+    text-decoration: none;
 }
