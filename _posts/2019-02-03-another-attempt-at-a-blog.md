@@ -11,7 +11,9 @@ This started last night when I was researching some interesting things to do wit
 
 I came accros [this](http://www.wadewegner.com/2017/04/show-the-salesforce-dx-org-config-in-your-bash-profile/) which with a bit of playing around I was able to get working.
 
-Below is what it ended up looking like ![custom bash file](/images/bash-shell-2019-03.png)
+Below is what it ended up looking like
+
+![custom bash file](/images/bash-shell-2019-03.png)
 
 Pretty cool huh?
 
